@@ -5,8 +5,10 @@ Given an input image/plot done in one colormap, replace all colors using a diffe
 ## Example
 
 Input plot created using the "jet" colormap:
+
 ![Input](test.png)
 
 
 Output image with the perceptually uniform "viridis" colormap.
+
 ![Input](test_viridis.png)
